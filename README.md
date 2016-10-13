@@ -16,9 +16,9 @@ Usage:
 On Host: Build Container
 -----
 
-```git clone https://github.com/bo01ean/nvidia-jetson-docker-flasher/ jetpacker
-cd jetpacker
-sudo docker build -t jetpacker .```
+```git clone https://github.com/bo01ean/nvidia-jetson-docker-flasher/ jetpacker;
+cd jetpacker;
+sudo docker build -t jetpacker .;```
 
 On Host: Allow Docker to get DISPLAY in X
 -----
